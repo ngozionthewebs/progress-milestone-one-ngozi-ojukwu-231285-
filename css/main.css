@@ -63,9 +63,9 @@ header h1{
 }
 
 .button{
-float: left;
-margin-top: 10px;
-margin-right: 10px;
+    float: left !important;
+    margin-top: 10px;
+    margin-right: 10px;
 }
 
 .play-btn{
@@ -85,7 +85,7 @@ margin-right: 10px;
 
 .play-btn:hover{
     cursor: pointer;
-    background-color: white;
+    background-color: lightgrey;
     color:black ;
 }
 
@@ -94,7 +94,6 @@ margin-right: 10px;
     height: 70px;
     background-color: lightgrey;
     color: black;
-    float: left !important;
     text-align: center;
     border-radius: 35px;
     font-weight: 400;
@@ -102,7 +101,52 @@ margin-right: 10px;
     font-family: 'Poppins', sans-serif;
     border: 1px solid black;
     padding-top: 15px;
+    margin-left: 260px;
+    margin-top: -100px;
 
 }
 
+.btn:hover{
+    cursor: pointer;
+    background-color: black;
+    color:white ;
+}
 
+.video{
+    width: 650px;
+    height: 330px;
+    background-color: grey;
+    margin-top: -60px;
+    margin-left: 50px;
+}
+
+.text{
+    width: 700px;
+    height: 450px;
+    background-color: rgb(185, 185, 185);
+    float: left;
+    padding-top: 3%;
+    padding-left: 50px;
+    padding-left: 5%;
+    margin-left: 650px;
+    margin-top: -330px;
+   
+}
+
+.text h3{
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text h1{
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text p{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
