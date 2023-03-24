@@ -31,7 +31,7 @@ nav li{
 
 nav li:hover{
     cursor: pointer;
-    color:black ;
+    color: orange; ;
 }
 
 .active{
@@ -174,20 +174,157 @@ button{
 .line-one h5{
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
+    font-weight: 700;
 }
 
 .line-one{
     width: 100%;
     padding-left: 43.5%;
-    margin-top: -410px;
-
+    margin-top: -420px;
 }
 
 .lines{
-    width: 500px;
+    width: 620px;
     height: 2px;
     background-color: black;
-    padding-left: -100%;
-    margin-top: -275px;
+    padding-left: 43%;
+    margin-top: -310px;
+    margin-left: 49%;
 
 }
+
+.line-two li{
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    margin: 50px;
+}
+
+.line-two h5{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.line-two{
+    width: 100%;
+    padding-left: 43.5%;
+    margin-top: -330px;
+}
+
+.no-two{
+    width: 620px;
+    height: 2px;
+    background-color: black;
+    padding-left: 43%;
+    margin-top: -220px;
+    margin-left: 49%;
+}
+
+.line-three li{
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    margin: 50px;
+}
+
+.line-three h5{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.line-three{
+    width: 100%;
+    padding-left: 43.5%;
+    margin-top: -240px;
+}
+
+.no-three{
+    width: 620px;
+    height: 2px;
+    background-color: black;
+    padding-left: 43%;
+    margin-top: -130px;
+    margin-left: 49%;
+}
+
+.line-four li{
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    margin: 50px;
+}
+
+.line-four h5{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.line-four{
+    width: 100%;
+    padding-left: 43.5%;
+    margin-top: -150px;
+}
+
+.no-four{
+    width: 620px;
+    height: 2px;
+    background-color: black;
+    padding-left: 43%;
+    margin-top: -40px;
+    margin-left: 49%;
+}
+
+.line-five li{
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    margin: 50px;
+}
+
+.line-five h5{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.line-five{
+    width: 100%;
+    padding-left: 43.5%;
+    margin-top: -60px;
+}
+
+.no-five{
+    width: 620px;
+    height: 2px;
+    background-color: black;
+    padding-left: 43%;
+    margin-top: -40px;
+    margin-left: 49%;
+}
+
+.line-six li{
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    margin: 50px;
+}
+
+.line-six h5{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.line-six{
+    width: 100%;
+    padding-left: 43.5%;
+    margin-top: -50px;
+}
+
+.no-six{
+    width: 620px;
+    height: 2px;
+    background-color: black;
+    padding-left: 43%;
+    margin-top: -44px;
+    margin-left: 49%;
+}
+
