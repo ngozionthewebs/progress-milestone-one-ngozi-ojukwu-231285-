@@ -31,11 +31,12 @@ nav li{
 
 nav li:hover{
     cursor: pointer;
-    color:white ;
+    color:orange ;
 }
 
 .active{
-    color: white;
+    color: black;
+    font-weight: bold;
  }
 
 .search-bar{
